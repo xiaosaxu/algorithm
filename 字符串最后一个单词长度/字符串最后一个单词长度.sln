@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "字符串最后一个单词长度", "字符串最后一个单词长度\字符串最后一个单词长度.vcproj", "{4BEA8F7D-A5D6-4485-8245-59D1FB69E846}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BEA8F7D-A5D6-4485-8245-59D1FB69E846}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4BEA8F7D-A5D6-4485-8245-59D1FB69E846}.Debug|Win32.Build.0 = Debug|Win32
+		{4BEA8F7D-A5D6-4485-8245-59D1FB69E846}.Release|Win32.ActiveCfg = Release|Win32
+		{4BEA8F7D-A5D6-4485-8245-59D1FB69E846}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

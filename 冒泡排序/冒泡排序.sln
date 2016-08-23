@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "冒泡排序", "冒泡排序\冒泡排序.vcproj", "{BAF6CB85-397F-49FD-848E-367AAD122A27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAF6CB85-397F-49FD-848E-367AAD122A27}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BAF6CB85-397F-49FD-848E-367AAD122A27}.Debug|Win32.Build.0 = Debug|Win32
+		{BAF6CB85-397F-49FD-848E-367AAD122A27}.Release|Win32.ActiveCfg = Release|Win32
+		{BAF6CB85-397F-49FD-848E-367AAD122A27}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "华为及时2", "华为及时2\华为及时2.vcproj", "{FB51FAE1-DC66-4EC3-9502-CD9884A5D80D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB51FAE1-DC66-4EC3-9502-CD9884A5D80D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FB51FAE1-DC66-4EC3-9502-CD9884A5D80D}.Debug|Win32.Build.0 = Debug|Win32
+		{FB51FAE1-DC66-4EC3-9502-CD9884A5D80D}.Release|Win32.ActiveCfg = Release|Win32
+		{FB51FAE1-DC66-4EC3-9502-CD9884A5D80D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

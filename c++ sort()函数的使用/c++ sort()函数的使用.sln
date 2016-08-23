@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c++ sort()函数的使用", "c++ sort()函数的使用\c++ sort()函数的使用.vcproj", "{FB4ABBA2-D971-48E0-803D-B6B5A75806FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB4ABBA2-D971-48E0-803D-B6B5A75806FC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FB4ABBA2-D971-48E0-803D-B6B5A75806FC}.Debug|Win32.Build.0 = Debug|Win32
+		{FB4ABBA2-D971-48E0-803D-B6B5A75806FC}.Release|Win32.ActiveCfg = Release|Win32
+		{FB4ABBA2-D971-48E0-803D-B6B5A75806FC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

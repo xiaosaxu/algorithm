@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "进制的转换（N进制转化10进制，10进制转化N进制，M进制转化N进制）", "进制的转换（N进制转化10进制，10进制转化N进制，M进制转化N进制）\进制的转换（N进制转化10进制，10进制转化N进制，M进制转化N进制）.vcproj", "{2CD7AA5B-E2C6-43C3-82A9-0E0D77C3EEF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CD7AA5B-E2C6-43C3-82A9-0E0D77C3EEF4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2CD7AA5B-E2C6-43C3-82A9-0E0D77C3EEF4}.Debug|Win32.Build.0 = Debug|Win32
+		{2CD7AA5B-E2C6-43C3-82A9-0E0D77C3EEF4}.Release|Win32.ActiveCfg = Release|Win32
+		{2CD7AA5B-E2C6-43C3-82A9-0E0D77C3EEF4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

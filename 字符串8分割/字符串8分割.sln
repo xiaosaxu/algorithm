@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "字符串8分割", "字符串8分割\字符串8分割.vcproj", "{F2264FD3-70A3-4724-830C-B70F34EFE845}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2264FD3-70A3-4724-830C-B70F34EFE845}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F2264FD3-70A3-4724-830C-B70F34EFE845}.Debug|Win32.Build.0 = Debug|Win32
+		{F2264FD3-70A3-4724-830C-B70F34EFE845}.Release|Win32.ActiveCfg = Release|Win32
+		{F2264FD3-70A3-4724-830C-B70F34EFE845}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

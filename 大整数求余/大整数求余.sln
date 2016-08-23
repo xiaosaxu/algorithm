@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "大整数求余", "大整数求余\大整数求余.vcproj", "{3430B2A6-3F60-4270-A380-47B8766FB077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3430B2A6-3F60-4270-A380-47B8766FB077}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3430B2A6-3F60-4270-A380-47B8766FB077}.Debug|Win32.Build.0 = Debug|Win32
+		{3430B2A6-3F60-4270-A380-47B8766FB077}.Release|Win32.ActiveCfg = Release|Win32
+		{3430B2A6-3F60-4270-A380-47B8766FB077}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

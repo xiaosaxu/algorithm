@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "找7", "找7\找7.vcproj", "{EAC0D66C-7B16-48DE-B7F8-CF05310D3312}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC0D66C-7B16-48DE-B7F8-CF05310D3312}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EAC0D66C-7B16-48DE-B7F8-CF05310D3312}.Debug|Win32.Build.0 = Debug|Win32
+		{EAC0D66C-7B16-48DE-B7F8-CF05310D3312}.Release|Win32.ActiveCfg = Release|Win32
+		{EAC0D66C-7B16-48DE-B7F8-CF05310D3312}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

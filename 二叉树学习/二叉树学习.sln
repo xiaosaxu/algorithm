@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "二叉树学习", "二叉树学习\二叉树学习.vcproj", "{6663BEB6-BF30-407E-BD28-B97EEC915EA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6663BEB6-BF30-407E-BD28-B97EEC915EA2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6663BEB6-BF30-407E-BD28-B97EEC915EA2}.Debug|Win32.Build.0 = Debug|Win32
+		{6663BEB6-BF30-407E-BD28-B97EEC915EA2}.Release|Win32.ActiveCfg = Release|Win32
+		{6663BEB6-BF30-407E-BD28-B97EEC915EA2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

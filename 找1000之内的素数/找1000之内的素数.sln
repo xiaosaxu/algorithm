@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "找1000之内的素数", "找1000之内的素数\找1000之内的素数.vcproj", "{EAEBCCCB-7E1B-40B8-815C-3A18C7BA3092}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAEBCCCB-7E1B-40B8-815C-3A18C7BA3092}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EAEBCCCB-7E1B-40B8-815C-3A18C7BA3092}.Debug|Win32.Build.0 = Debug|Win32
+		{EAEBCCCB-7E1B-40B8-815C-3A18C7BA3092}.Release|Win32.ActiveCfg = Release|Win32
+		{EAEBCCCB-7E1B-40B8-815C-3A18C7BA3092}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
